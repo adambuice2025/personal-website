@@ -1,2 +1,3 @@
-# personal-website
-Adam Buice — adambuice.com
+# Adam Buice
+
+Source + sitemaps for [adambuice.com](https://adambuice.com).
